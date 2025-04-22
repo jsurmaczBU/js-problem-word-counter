@@ -1,7 +1,7 @@
 // put your globals here - hint: select elements from the HTML
 
 
-// dont' forget to add event listeners to teh buttons
+// dont' forget to add event listeners to the buttons
 
 function countWords() {
   // your code here
